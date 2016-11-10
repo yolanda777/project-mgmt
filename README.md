@@ -25,3 +25,5 @@ Here are a few resources to help you right off the bat:
 When you are done, click on the [EXERCISES](/EXERCISES/) folder and follow the instructions in the RetirementParty.md.
 
 For more practice in GitHub including learning about branches, try this exercise: https://guides.github.com/activities/hello-world/ 
+
+We need your help on this project: Creating a repository of data on **all the world's IPA drinkers** Some people will only drink IPA. In an attempt to understand this elite group, we've collected data on 1,000,500 of them with respect to 4,567 demographic variables. We need *a little bit of help* in organizing our research data.
